@@ -19,4 +19,4 @@ deploy:
   repo: dysonring/dysonring.github.io
   target-branch: master
   on:
-    branch: master
+    branch: docs-master
