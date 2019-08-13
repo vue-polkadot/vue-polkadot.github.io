@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/vue-ui-polkadot/',
+  base: '/',
   title: 'dysonring/vue-ui-polkadot',
   description: 'VueJS utilities, libraries and Vue components in use across @polkadot projects',
   markdown: {
