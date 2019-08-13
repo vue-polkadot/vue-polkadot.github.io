@@ -8,6 +8,8 @@ cache:
 before_install:
   - curl -o- -L https://yarnpkg.com/install.sh | bash
   - export PATH=$HOME/.yarn/bin:$PATH
+before_script: 
+  - echo 'vue-polkadot.js.org' > docs/.vuepress/dist/CNAME
 script:
   - yarn run docs:build
 deploy:
