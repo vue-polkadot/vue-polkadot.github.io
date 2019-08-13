@@ -16,7 +16,7 @@ module.exports = {
           { text: 'API Reference', link: 'https://polkadot.js.org/api/' },
           { text: 'Utility Reference', link: 'https://polkadot.js.org/common/' },
           { text: 'UI Libs Reference', link: 'https://polkadot.js.org/ui/' },
-          { text: 'VueJS Libs Reference (this)', link: 'https://vue-polkadot.js.org/ui/' }
+          { text: 'VueJS Libs Reference (this)', link: 'https://dysonring.github.io/vue-ui-polkadot/' }
         ]
       },
       { text: 'GitHub', link: 'https://github.com/polkadot-js/ui' }

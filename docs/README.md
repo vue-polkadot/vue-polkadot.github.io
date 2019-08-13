@@ -26,9 +26,8 @@ In a rush and just want examples? [Jump right in](vue-identicon/README.md) and g
 
 This repository split up into a number of internal packages, namely -
 
-- [vue-identicon](vue-identicon/README.md) Display of identity icons based on theme, also availble for [Vue JS](vue-identicon/README.md)
-- [vue-keyring](vue-keyring/README.md) A keyring with browser-specific extensions
-- [vue-settings](vue-settings/README.md) Setting management and defaults
+- [Vue JS libraries](https://dysonring.github.io/vue-ui-polkadot/) Display of identity icons based on theme, also availble for [Vue JS](vue-identicon/README.md)
+- [Vue JS wallet boilerplate]() Comming soon™️
 
 ## The Polkadot Project
 
@@ -46,4 +45,4 @@ This documentation is generated from [https://github.com/dysonring/vue-ui-polkad
 
 ## Contributing
 
-Contribution to the Polkadot JS projects are more than welcome. You can [report issues](https://github.com/dysonring/vue-ui-polkadot/issues/new) and [log feature requests](https://github.com/dysonring/vue-ui-polkadot/issues/new).
+Contribution to the VueJS UI polkadot projects are more than welcome. You can [report issues](https://github.com/dysonring/vue-ui-polkadot/issues/new) and [log feature requests](https://github.com/dysonring/vue-ui-polkadot/issues/new).
