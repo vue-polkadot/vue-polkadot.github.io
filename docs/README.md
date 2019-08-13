@@ -19,14 +19,14 @@ footer: MIT Licensed | Copyright © 2019 dysonring authors and contributors
 This is a collection of Vue.js libraries, utlities and classes that allows for easier use of the Polkadot JS infrastructure inside your apps.
 
 ::: tip Examples
-In a rush and just want examples? [Jump right in](vue-identicon/README.md) and get a handle the libraries in your projects.
+In a rush and just want examples? [Jump right in](vue-ui-polkadot/vue-identicon/) and get a handle the libraries in your projects.
 :::
 
 ## Available packages
 
 This repository split up into a number of internal packages, namely -
 
-- [Vue JS libraries](https://dysonring.github.io/vue-ui-polkadot/) Display of identity icons based on theme, also availble for [Vue JS](vue-identicon/README.md)
+- [Vue JS libraries](vue-ui-polkadot/) - UI utilities, libraries and VueJS components in use across @polkadot projects
 - [Vue JS wallet boilerplate]() Comming soon™️
 
 ## The Polkadot Project
