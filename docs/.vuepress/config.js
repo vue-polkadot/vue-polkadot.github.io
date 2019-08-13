@@ -22,6 +22,7 @@ module.exports = {
       { text: 'GitHub', link: 'https://github.com/dysonring/dysonring.github.io' }
     ],
     search: false,
+    sidebar: 'auto'
     // sidebar: [
       // ['/ui-keyring/', '@dysonring/vue-keyring'],
       // ['/vue-settings/', '@dysonring/vue-settings'],
