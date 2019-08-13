@@ -17,7 +17,7 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io
-git push -f git@github.com:dysonring/dysonring.github.io.git master:gh-pages
+git push -f git@github.com:dysonring/dysonring.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:dysonring/vue-ui-polkadot.git master:gh-pages
