@@ -16,19 +16,12 @@ module.exports = {
           { text: 'API Reference', link: 'https://polkadot.js.org/api/' },
           { text: 'Utility Reference', link: 'https://polkadot.js.org/common/' },
           { text: 'UI Libs Reference', link: 'https://polkadot.js.org/ui/' },
-          { text: 'VueJS Libs Reference (this)', link: 'https://github.com/vue-polkadot/vue-ui' }
+          { text: 'VueJS Libs Reference (this)', link: 'https://vue-polkadot.js.org/vue-ui/' }
         ]
       },
       { text: 'GitHub', link: 'https://github.com/vue-polkadot/vue-polkadot.github.io' }
     ],
     search: false,
     sidebar: 'auto'
-    // sidebar: [
-      // ['/ui-keyring/', '@dysonring/vue-keyring'],
-      // ['/vue-settings/', '@dysonring/vue-settings'],
-      // ['/vue-shared/', '@dysonring/vue-shared'],
-      // ['/vue-identicon/', '@dysonring/vue-identicon'],
-      // ['/contribute/', '/CONTRIBUTING.md'],
-    // ]
   }
 };

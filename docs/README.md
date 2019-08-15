@@ -29,6 +29,7 @@ This repository split up into a number of internal packages, namely -
 - [Vue JS libraries](vue-ui-polkadot/) - UI utilities, libraries and VueJS components in use across @polkadot projects
 - [Vue JS apps]() Coming soon️️️️™️
 - [Vue JS wallet boilerplate]() Coming soon™️
+- [Vue JS dashboard]() Coming soon™️
 
 ## The Polkadot Project
 
