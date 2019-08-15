@@ -11,7 +11,7 @@ features:
 - title: VueJS boilerplate wallet
   details: VueJS boilerplate wallet to use with Polkadot and Substrate compatible api
 
-footer: MIT Licensed | Copyright © 2019 dysonring authors and contributors
+footer: MIT Licensed | Copyright © 2019 vue-polkadot authors and contributors
 ---
 
 ## Welcome
@@ -27,7 +27,8 @@ In a rush and just want examples? [Jump right in](vue-ui-polkadot/vue-identicon/
 This repository split up into a number of internal packages, namely -
 
 - [Vue JS libraries](vue-ui-polkadot/) - UI utilities, libraries and VueJS components in use across @polkadot projects
-- [Vue JS wallet boilerplate]() Comming soon™️
+- [Vue JS apps]() Coming soon️️️️™️
+- [Vue JS wallet boilerplate]() Coming soon™️
 
 ## The Polkadot Project
 
@@ -36,13 +37,13 @@ You can read more about the Polkadot Network at [https://polkadot.network/](http
 ## Github repositories
 
 You can find the Polkadot repositories at:
-
+- [https://github.com/vue-polkadot.js](https://github.com/vue-polkadot/vue-ui)
 - [https://github.com/polkadot-js](https://github.com/polkadot-js)
 - [https://github.com/paritytech/polkadot](https://github.com/paritytech/polkadot)
 - [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
 
-This documentation is generated from [https://github.com/dysonring/vue-ui-polkadot](https://github.com/dysonring/vue-ui-polkadot)
+This documentation is generated from [https://github.com/vue-polkadot/vue-polkadot.github.io](https://github.com/vue-polkadot/vue-polkadot.github.io)
 
 ## Contributing
 
-Contribution to the VueJS UI polkadot projects are more than welcome. You can [report issues](https://github.com/dysonring/vue-ui-polkadot/issues/new) and [log feature requests](https://github.com/dysonring/vue-ui-polkadot/issues/new).
+Contribution to the VueJS UI polkadot projects are more than welcome. You can [report issues](https://github.com/vue-polkadot/vue-ui/issues/new) and [log feature requests](https://github.com/vue-polkadot/vue-ui/issues/new).
