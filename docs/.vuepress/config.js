@@ -1,6 +1,6 @@
 module.exports = {
   base: '/',
-  title: 'vue-polkadot project',
+  title: 'vue-polkadot',
   description: 'VueJS utilities, libraries and Vue components in use across @polkadot projects',
   markdown: {
     lineNumbers: true
@@ -16,10 +16,10 @@ module.exports = {
           { text: 'API Reference', link: 'https://polkadot.js.org/api/' },
           { text: 'Utility Reference', link: 'https://polkadot.js.org/common/' },
           { text: 'UI Libs Reference', link: 'https://polkadot.js.org/ui/' },
-          { text: 'VueJS Libs Reference (this)', link: 'https://dysonring.github.io/vue-ui-polkadot/' }
+          { text: 'VueJS Libs Reference (this)', link: 'https://github.com/vue-polkadot/vue-ui' }
         ]
       },
-      { text: 'GitHub', link: 'https://github.com/dysonring/dysonring.github.io' }
+      { text: 'GitHub', link: 'https://github.com/vue-polkadot/vue-polkadot.github.io' }
     ],
     search: false,
     sidebar: 'auto'
