@@ -28,10 +28,10 @@ In a rush and just want examples? [Jump right in](https://vue-polkadot.js.org/vu
 
 This repository split up into a number of internal packages, namely -
 
-- [Vue JS libraries](https://vue-polkadot.js.org/vue-ui/) - UI utilities, libraries and VueJS components in use across @polkadot projects 
-- [Vue JS dashboard](/apps) - Alpha Stage 🏗🚧
-- [Vue JS apps]() - Coming soon™️ 🏗🚧
-- [Vue JS wallet boilerplate]() Coming soon™️ 🏗🚧
+- [Vue libraries](https://vue-polkadot.js.org/vue-ui/) - UI utilities, libraries and VueJS components in use across @polkadot projects 
+- [Vue dashboard](/apps) - Alpha Stage 🏗🚧
+- [Vue apps]() - Coming soon™️ 🏗🚧
+- [Vue wallet boilerplate]() Coming soon™️ 🏗🚧
 
 ## The Polkadot Project
 
@@ -43,7 +43,7 @@ You can find the Polkadot repositories at:
 - [https://github.com/polkadot-js](https://github.com/polkadot-js)
 - [https://github.com/paritytech/polkadot](https://github.com/paritytech/polkadot)
 - [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
-- [https://github.com/vue-polkadot.js](https://github.com/vue-polkadot/vue-ui)
+- [https://github.com/vue-polkadot](https://github.com/vue-polkadot/vue-ui)
 
 This documentation is generated from [https://github.com/vue-polkadot/vue-polkadot.github.io](https://github.com/vue-polkadot/vue-polkadot.github.io)
 
