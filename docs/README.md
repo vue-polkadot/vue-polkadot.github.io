@@ -28,10 +28,10 @@ In a rush and just want examples? [Jump right in](https://vue-polkadot.js.org/vu
 
 This repository split up into a number of internal packages, namely -
 
-- [Vue JS libraries](https://vue-polkadot.js.org/vue-ui/) - UI utilities, libraries and VueJS components in use across @polkadot projects
-- [Vue JS apps]() Coming soon️️️️™️
-- [Vue JS wallet boilerplate]() Coming soon™️
-- [Vue JS dashboard]() Coming soon™️
+- [Vue JS libraries](https://vue-polkadot.js.org/vue-ui/) - UI utilities, libraries and VueJS components in use across @polkadot projects 
+- [Vue JS dashboard](/apps) - Alpha Stage 🏗🚧
+- [Vue JS apps]() - Coming soon™️ 🏗🚧
+- [Vue JS wallet boilerplate]() Coming soon™️ 🏗🚧
 
 ## The Polkadot Project
 

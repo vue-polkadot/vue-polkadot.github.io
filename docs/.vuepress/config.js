@@ -22,6 +22,9 @@ module.exports = {
       { text: 'GitHub', link: 'https://github.com/vue-polkadot/vue-polkadot.github.io' }
     ],
     search: false,
-    sidebar: 'auto'
+    sidebar: [
+      '/',
+      '/apps',
+    ]
   }
 };
