@@ -39,7 +39,7 @@ This repository split up into a number of internal packages, namely -
 
 You can read more about the Polkadot Network at [polkadot.network](https://polkadot.network/) and more about the polkadot-js projects at [polkadot.js.org](https://polkadot.js.org)
 
-## Github repositories
+## 📁 Github repositories
 
 You can find the Polkadot repositories at:
 - [vue-polkadot/apps](https://github.com/vue-polkadot/apps)
