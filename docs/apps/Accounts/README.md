@@ -2,13 +2,14 @@
 
 It offers basic functionality like **Create Account** and **Restore from JSON**.
 
-From list view, you can 
-* copy address
-* delete account
-* download backup
-* change password
-* send from
-* view transactions on Polkascan
+From list view, you can
+
+- copy address
+- delete account
+- download backup
+- change password
+- send from
+- view transactions on Polkascan
 
 ![Accounts](../../assets/img/accounts.png)
 
@@ -16,7 +17,7 @@ From list view, you can
 
 You can choose **name of your account**. Then you will get **auto generated mnemonic seed**, **enter password** which is _required_ here, **choose keypair crypto** type, you can choose here from _Schnorrkel (sr25519)_ and _Edwards (ed25519)_.
 
-Also for advanced use case you can add **secret derivation path**. 
+Also for advanced use case you can add **secret derivation path**.
 
 For better sorting you can **add tags**
 
