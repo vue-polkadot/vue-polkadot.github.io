@@ -1,24 +1,26 @@
 ---
 home: true
-heroText:
+heroText: KodaDot
 tagline:
 # Bringing Vue.js components to the Polkadot world.
 # actionText: Repository Overview
 # actionLink: /REPOS.md
-features:
-- title: VueJS libraries
-  details: UI utilities, libraries and VueJS components in use across Polkadot and Substrate projects
-- title: VueJS wallet - KodaDot
-  details: Boilerplate wallet - KodaDot - to use with Polkadot and Substrate compatible api
-- title: VueJS dashboard
-  details: VueJS boilerplate dashboard to use with Polkadot and Substrate compatible api
+
+# features:
+# - title: VueJS libraries
+#   details: UI utilities, libraries and VueJS components in use across Polkadot and Substrate projects
+# - title: VueJS wallet - KodaDot
+#   details: Boilerplate wallet - KodaDot - to use with Polkadot and Substrate compatible api
+# - title: VueJS dashboard
+#   details: VueJS boilerplate dashboard to use with Polkadot and Substrate compatible api
 
 footer: MIT Licensed | Copyright © 2020 vue-polkadot authors and contributors
 ---
-
-## 👋 Welcome
+## VueJS dashboard for Polkadot and Substrate
 
 This is a collection of Vue.js libraries, utlities and classes that allows for easier use of the Polkadot JS infrastructure inside your apps.
+
+<img style="float: right" src="./assets/img/KodaDot_logo_843x843.png" width="200" alt="KodaDot logo" />
 
 ::: tip 💡 Example - Vue Identicon
 In a rush and just want examples? [Jump right in](https://vue-polkadot.js.org/vue-ui/vue-identicon/) and get a handle the libraries in your projects.
@@ -32,7 +34,7 @@ Want to hack around and have some play?  [Deploy your VueJS dashboard](https://g
 This repository split up into a number of internal packages, namely -
 
 - [Vue libraries](https://vue-polkadot.js.org/vue-ui/) - UI utilities, libraries and VueJS components in use across Ppolkadot/Substrate projects 
-- [Vue dashboard](/apps) - 🏗🚧 <b>Building Stage Two</b> 
+- [Vue dashboard](/apps) - 📚 Documentation for components - 🏗🚧 <b>Building Stage Two</b> 
 - [Vue wallet - KodaDot](https://twitter.com/KodaDot) - 🐦[Follow us on Twitter](https://twitter.com/KodaDot) for upcoming announcements 😻
 
 ## 🟣 The Polkadot Project
