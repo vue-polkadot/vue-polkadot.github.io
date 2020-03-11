@@ -1,23 +1,23 @@
-### Apps
-In upcoming weeks we will demonstrate Vue dashboard for Polkadot.
+# 📱 Apps
 
-## Vue Dashboard 
-* 👩‍✈️Stable release [is here till we figure out our deployment pipeline](https://vue-polkadot.netlify.com)
-* [🚧👷‍♀️ Develop release ](https://dev-vue-polkadot.netlify.com/)
+Apps are core components of [KodaDot wallet](https://twitter.com/KodaDot).
 
-We are building similar components & actions as could be found at [polkadot.js.org/apps/](https://polkadot.js.org/apps/)
+## ▶️ Demo versions
+* 👩‍✈️[Stable release - could be used for production](https://vue-polkadot.netlify.com)
+* [🚧👷‍♀️ Development preview release - may not work everytime](https://dev-vue-polkadot.netlify.com/)
 
-### Stage One
-* 🏗Accounts
-* 🏗Address book 
-* 🏗Democracy 
-* 🏗Extrinsics 
-* 🏗Transfer 
-* 🏗Settings 
-### Stage Two
-* Staking 
-* Storage 
-* ToolBox 
-* Explorer 
-* ToolBox 
-* Treasury 
+## 🏦 Stage One
+* [Accounts](https://vue-polkadot.netlify.com/#/accounts)
+* [Address book](https://vue-polkadot.netlify.com/#/addressbook)
+* [Democracy](https://vue-polkadot.netlify.com/#/democracy)
+* [Extrinsics](https://vue-polkadot.netlify.com/#/extrinsics)
+* [Transfer](https://vue-polkadot.netlify.com/#/transfer)
+* [Settings](https://vue-polkadot.netlify.com/#/settings)
+
+## 🏯 Stage Two
+* 🏗 Staking 
+* 🏗 Storage 
+* 🏗 ToolBox 
+* 🏗 [Explorer](https://vue-polkadot.netlify.com/#/explorer)
+* 🏗 ToolBox 
+* 🏗 Treasury 

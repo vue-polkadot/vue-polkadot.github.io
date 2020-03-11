@@ -1,14 +1,14 @@
 module.exports = {
   base: '/',
-  title: 'vue-polkadot',
-  description: 'VueJS utilities, libraries and Vue components in use across @polkadot projects',
+  title: 'KodaDot',
+  description: 'VueJS utilities, libraries and Vue components in use across Polkadot and Substrate projects',
   markdown: {
     lineNumbers: true
   },
   themeConfig: {
     displayAllHeaders: true,
     nav: [
-      { text: 'Polkadot/Substrate Apps', link: 'https://polkadot.js.org/apps/' },
+      { text: 'Follow us on Twitter', link: 'https://twitter.com/KodaDot' },
       { text: 'Project family', link: 'https://polkadot.js.org/' },
       {
         text: 'Documentation',

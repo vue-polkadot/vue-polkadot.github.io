@@ -7,45 +7,55 @@ tagline:
 # actionLink: /REPOS.md
 features:
 - title: VueJS libraries
-  details: UI utilities, libraries and VueJS components in use across @polkadot projects
-- title: VueJS boilerplate wallet
-  details: VueJS boilerplate wallet to use with Polkadot and Substrate compatible api
+  details: UI utilities, libraries and VueJS components in use across Polkadot and Substrate projects
+- title: VueJS wallet - KodaDot
+  details: Boilerplate wallet - KodaDot - to use with Polkadot and Substrate compatible api
 - title: VueJS dashboard
   details: VueJS boilerplate dashboard to use with Polkadot and Substrate compatible api
 
-footer: MIT Licensed | Copyright © 2019 vue-polkadot authors and contributors
+footer: MIT Licensed | Copyright © 2020 vue-polkadot authors and contributors
 ---
 
-## Welcome
+## 👋 Welcome
 
 This is a collection of Vue.js libraries, utlities and classes that allows for easier use of the Polkadot JS infrastructure inside your apps.
 
-::: tip Examples
+::: tip 💡 Example - Vue Identicon
 In a rush and just want examples? [Jump right in](https://vue-polkadot.js.org/vue-ui/vue-identicon/) and get a handle the libraries in your projects.
 :::
 
-## Available packages
+::: tip ⛳️ Dashboard - Apps
+Want to hack around and have some play?  [Deploy your VueJS dashboard](https://github.com/vue-polkadot/apps) 
+:::
+## 📦 Available packages
 
 This repository split up into a number of internal packages, namely -
 
-- [Vue libraries](https://vue-polkadot.js.org/vue-ui/) - UI utilities, libraries and VueJS components in use across @polkadot projects 
-- [Vue dashboard](/apps) - Alpha Stage 🏗🚧
-- [Vue apps]() - Coming soon™️ 🏗🚧
-- [Vue wallet boilerplate]() Coming soon™️ 🏗🚧
+- [Vue libraries](https://vue-polkadot.js.org/vue-ui/) - UI utilities, libraries and VueJS components in use across Ppolkadot/Substrate projects 
+- [Vue dashboard](/apps) - 🏗🚧 <b>Building Stage Two</b> 
+- [Vue wallet - KodaDot](https://twitter.com/KodaDot) - 🐦[Follow us on Twitter](https://twitter.com/KodaDot) for upcoming announcements 😻
 
-## The Polkadot Project
+## 🟣 The Polkadot Project
 
-You can read more about the Polkadot Network at [https://polkadot.network/](https://polkadot.network/) and more about the polkadot-js projects at [https://polkadot.js.org](https://polkadot.js.org)
+You can read more about the Polkadot Network at [polkadot.network](https://polkadot.network/) and more about the polkadot-js projects at [polkadot.js.org](https://polkadot.js.org)
 
 ## Github repositories
 
 You can find the Polkadot repositories at:
-- [https://github.com/polkadot-js](https://github.com/polkadot-js)
-- [https://github.com/paritytech/polkadot](https://github.com/paritytech/polkadot)
-- [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
-- [https://github.com/vue-polkadot](https://github.com/vue-polkadot/vue-ui)
+- [vue-polkadot/apps](https://github.com/vue-polkadot/apps)
+- [vue-polkadot/vue-ui](https://github.com/vue-polkadot/vue-ui)
+- [polkadot-js](https://github.com/polkadot-js)
+- [paritytech/polkadot](https://github.com/paritytech/polkadot)
+- [paritytech/substrate](https://github.com/paritytech/substrate)
+- [substrate.dev](https://substrate.dev/)
 
-This documentation is generated from [https://github.com/vue-polkadot/vue-polkadot.github.io](https://github.com/vue-polkadot/vue-polkadot.github.io)
+This documentation is generated from [vue-polkadot/vue-polkadot.github.io](https://github.com/vue-polkadot/vue-polkadot.github.io)
+
+## 💰 Funding
+
+This project was made with support from [web3 foundation](https://web3.foundation/). Learn more about them from [their Twitter](https://twitter.com/web3foundation)
+
+![Web3FoundationLogo](./assets/img/web3_foundation_grants_badge_black.png)
 
 ## Contributing
 
