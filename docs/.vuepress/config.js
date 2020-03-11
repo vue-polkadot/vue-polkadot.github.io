@@ -23,7 +23,13 @@ module.exports = {
     ],
     search: false,
     sidebar: [
-      '/'
+      ['/','Apps'],
+      ['/apps/Explorer/', 'Explorer'],
+      ['/apps/Accounts/', 'Accounts'],
+      ['/apps/Addressbook/', 'Addressbook'],
+      ['/apps/Democracy/', 'Democracy'],
+      ['/apps/Extrinsics/', 'Extrinsics'],
+      ['/apps/Settings/', 'Settings'],
     ]
   }
 };
