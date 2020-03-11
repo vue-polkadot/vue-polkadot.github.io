@@ -6,6 +6,17 @@ Apps are core components of [KodaDot wallet](https://twitter.com/KodaDot).
 * 👩‍✈️[Stable release - could be used for production](https://vue-polkadot.netlify.com)
 * [🚧👷‍♀️ Development preview release - may not work everytime](https://dev-vue-polkadot.netlify.com/)
 
+## 🏗🕹 Build & Try
+
+Prerequirements are to have installed [NodeJS](https://nodejs.org/en/) and [Yarn 1.22.x](https://classic.yarnpkg.com/en/docs/install/)
+
+```shell
+git clone https://github.com/vue-polkadot/apps
+cd dashboard;yarn
+yarn serve
+open http://localhost:8080/
+```
+
 ## 🏦 Stage One
 * [Accounts](https://vue-polkadot.netlify.com/#/accounts)
 * [Address book](https://vue-polkadot.netlify.com/#/addressbook)
