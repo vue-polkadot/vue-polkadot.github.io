@@ -1,4 +1,4 @@
-## 👋 Welcome
+## 👀 Overview 
 
 Vue Setting provide seamless integration of `vue-settings` and `vue-api` inside `Vuex`
 

@@ -1,4 +1,4 @@
-# Accounts
+## 👀 Overview 
 
 It offers basic functionality like **Create Account** and **Restore from JSON**.
 
@@ -11,7 +11,7 @@ From list view, you can
 - send from
 - view transactions on Polkascan
 
-![Accounts](../../assets/img/accounts.png)
+![Accounts](./assets/accounts.png)
 
 ## Create Account
 
@@ -21,10 +21,10 @@ Also for advanced use case you can add **secret derivation path**.
 
 For better sorting you can **add tags**
 
-![AccountsCreate](../../assets/img/accountsCreate.png)
+![AccountsCreate](./assets/accountsCreate.png)
 
 ## Restore Account
 
 You can restore here your account from JSON file. Drag and drop it and enter password
 
-![AccountsRestore](../../assets/img/accountsRestore.png)
+![AccountsRestore](./assets/accountsRestore.png)

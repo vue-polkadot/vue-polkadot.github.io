@@ -1,4 +1,4 @@
-## 👋 Welcome
+## 👀 Overview 
 
 Democracy page consist of three sub-pages:
 - Main Board
