@@ -41,3 +41,7 @@ We are also able to second the proposal using `+ Second` button.
 Referendums tab is the list of proposed referendums.
 
 Same as proposals referendum consist of vital information and users is able to vote for proposal using `+ Vote` button
+
+![Referendum](./assets/referendum.png)
+
+![Vote](./assets/vote.png)
