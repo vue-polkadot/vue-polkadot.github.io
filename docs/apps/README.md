@@ -52,7 +52,7 @@ We are using `yarn` workspace, as installing things via npm **will result in bro
 
 ## 🙋‍♀️ I want to contribute
 
-Sure, your contribution is welcome. Please follow [code of conduct](CODE_OF_CONDUCT.md) and [contribution guidelines](CONTRIBUTING.md)
+Sure, your contribution is welcome. Please follow [code of conduct](../CODE_OF_CONDUCT.md) and [contribution guidelines](../CONTRIBUTING.md)
 
 
 ## 🐳 Docker

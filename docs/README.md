@@ -27,7 +27,7 @@ In a rush and just want examples? [Jump right in](https://vue-polkadot.js.org/vu
 :::
 
 ::: tip ⛳️ Dashboard - Apps
-Want to hack around and have some play?  [Deploy your VueJS dashboard](https://github.com/vue-polkadot/apps) 
+Want to hack around and have some play?  [Deploy your VueJS dashboard](/apps) 
 :::
 ## 📦 Available packages
 
@@ -59,6 +59,8 @@ This project was made with support from [web3 foundation](https://web3.foundatio
 
 ![Web3FoundationLogo](./assets/img/web3_foundation_grants_badge_black.png)
 
-## 🙏 Contributing
+## 🙋‍♀️ I want to contribute
+
+Sure, your contribution is welcome. Please follow [code of conduct](CODE_OF_CONDUCT.md) and [contribution guidelines](CONTRIBUTING.md)
 
 Contribution to the VueJS UI polkadot projects are more than welcome. You can [report issues](https://github.com/vue-polkadot/vue-ui/issues/new) and [log feature requests](https://github.com/vue-polkadot/vue-ui/issues/new).
