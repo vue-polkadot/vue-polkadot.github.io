@@ -29,6 +29,12 @@ In a rush and just want examples? [Jump right in](https://vue-polkadot.js.org/vu
 ::: tip ⛳️ Dashboard - Apps
 Want to hack around and have some play?  [Deploy your VueJS dashboard](/apps) 
 :::
+
+## 🕹 Demo versions
+
+* 👩‍✈️[Stable Release - could be used for production](https://vue-polkadot.netlify.com)
+* [🚧👷‍♀️ Development preview release - may not work everytime](https://dev-vue-polkadot.netlify.com/)
+
 ## 📦 Available packages
 
 This repository split up into a number of internal packages, namely -
