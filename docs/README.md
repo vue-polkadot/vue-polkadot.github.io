@@ -32,15 +32,15 @@ Want to hack around and have some play?  [Deploy your VueJS dashboard](/apps)
 
 ## 🕹 Demo versions
 
-* 👩‍✈️[Stable Release - could be used for production](https://vue-polkadot.netlify.com)
-* [🚧👷‍♀️ Development preview release - may not work everytime](https://dev-vue-polkadot.netlify.com/)
+* 👩‍✈️[Stable Release - could be used for production](https://kodadot.netlify.app/)
+* [🚧👷‍♀️ Development preview release - may not work everytime](https://dev-kodadot.netlify.app/)
 
 ## 📦 Available packages
 
 This repository split up into a number of internal packages, namely -
 
-- [Vue libraries](https://vue-polkadot.js.org/vue-ui/) - UI utilities, libraries and VueJS components in use across Ppolkadot/Substrate projects 
 - [Vue dashboard](/apps) - 📚 Documentation for components - 🏗🚧 <b>Building Stage Two</b> 
+- [Vue libraries](https://vue-polkadot.js.org/vue-ui/) - UI utilities, libraries and VueJS components in use across Ppolkadot/Substrate projects 
 - [Vue wallet - KodaDot](https://twitter.com/KodaDot) - 🐦[Follow us on Twitter](https://twitter.com/KodaDot) for upcoming announcements 😻
 
 ## 🟣 The Polkadot Project
