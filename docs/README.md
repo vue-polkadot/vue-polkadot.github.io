@@ -16,7 +16,21 @@ tagline:
 
 footer: MIT Licensed | Copyright © 2020 vue-polkadot authors and contributors
 ---
-## VueJS dashboard for Polkadot and Substrate
+## VueJS utilities for interaction with Substrate Networks (Kusama/Polkadot)
+
+::: warning 
+This project is in **archive mode**. 
+
+Only API & Settings packages are maintained.
+
+Original team has [forked this repository](https://github.com/vue-polkadot/apps) and working on [Kusama NFT gallery - KodaDot](https://twitter.com/kodadot) and [experimental NFT landscape - Metaprime.network](https://twitter.com/metaprime_net) 
+
+Feel free to join their Discord - [KodaDot NFT explorers & MetaPrime community](https://discord.gg/u6ymnbz4PR)
+
+You can check products build thanks to this libraries
+- [nft.kodadot.xyz](https://nft.kodadot.xyz)
+- [metaprime.network](https://metaprime.network)
+:::
 
 This is a collection of Vue.js libraries, utlities and classes that allows for easier use of the Polkadot JS infrastructure inside your apps.
 
