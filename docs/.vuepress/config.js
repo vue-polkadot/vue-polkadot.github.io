@@ -1,7 +1,7 @@
 module.exports = {
   base: '/',
   title: 'KodaDot',
-  description: 'VueJS utilities, libraries and Vue components in use across Polkadot and Substrate projects',
+  description: 'KodaDot - Polkadot NFT Marketplace and VueJS utilities, libraries and Vue components in use across Polkadot and Substrate projects',
   markdown: {
     lineNumbers: true
   },
