@@ -16,6 +16,7 @@ tagline:
 
 footer: MIT Licensed | Copyright © 2020 vue-polkadot authors and contributors
 ---
+## KodaDot - Go To Polkadot NFT marketplace
 ## VueJS utilities for interaction with Substrate Networks (Kusama/Polkadot)
 
 ::: warning 
@@ -23,12 +24,12 @@ This project is in **archive mode**.
 
 Only API & Settings packages are maintained.
 
-Original team has [forked this repository](https://github.com/vue-polkadot/apps) and working on [Kusama NFT gallery - KodaDot](https://twitter.com/kodadot) and [experimental NFT landscape - Metaprime.network](https://twitter.com/metaprime_net) 
+Original team has [forked this repository](https://github.com/vue-polkadot/apps) and working on [Polkadot NFT marketplace - KodaDot](https://kodadot.xyz) and [experimental NFT landscape - Metaprime.network](https://twitter.com/metaprime_net) 
 
-Feel free to join their Discord - [KodaDot NFT explorers & MetaPrime community](https://discord.gg/u6ymnbz4PR)
+Feel free to join their Discord - [KodaDot Polkadot NFT explorer & MetaPrime community](https://t.me/kodadot_eco)
 
-You can check products build thanks to this libraries
-- [nft.kodadot.xyz](https://nft.kodadot.xyz)
+You can check products build thanks to these libraries
+- [Polkadot NFT marketplace](https://kodadot.xyz)
 - [metaprime.network](https://metaprime.network)
 :::
 
