@@ -24,5 +24,5 @@ npm run docs:build
 cp -rf docs/.vuepress/dist/ .
 git add -A
 git commit -m 'commit build'
-git push git@github.com:dysonring/dysonring.github.io.git master
+git push git@github.com:vue-polkadot/vue-polkadot.github.io.git master
 cd -
