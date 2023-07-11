@@ -8,6 +8,7 @@ module.exports = {
   themeConfig: {
     displayAllHeaders: true,
     nav: [
+      { text: 'Polkadot NFT marketplace', link: 'https://kodadot.xyz' },
       { text: 'Follow us on Twitter', link: 'https://twitter.com/KodaDot' },
       { text: 'Project family', link: 'https://polkadot.js.org/' },
       {
